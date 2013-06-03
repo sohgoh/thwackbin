@@ -19,7 +19,14 @@ thwackbin is currently located at the [thwackbin.herokuapp.com](http://thwackbin
 
 ### Examples
 
-See TODO.
+Get all projects:
+```bash
+    $ curl -X GET -u "DTOZZNWeCNWFWtuqqJEm14nnonVJMDXA9flmdvzg:" http://thwackbin.herokuapp.com/api/project
+    >> [{"url": "my-project", "id": 1, "name": "My Project"}, 
+    {"url": "another-project", "id": 2, "name": "Another Project"}, 
+    {"url": "thanks-for-all-the-fish", "id": 64, "name": "Thanks for all the fish"}, 
+    {"url": "angry-birds", "id": 1023, "name": "Angry Birds"}] 
+```
 
 ## Documentation
 
