@@ -10,10 +10,12 @@ HTTP request/response test service exposing the AppThwack REST API.
 
 ## Usage
 
+thwackbin is currently located at the [thwackbin.herokuapp.com](thwackbin.herokuapp.com) domain.
+
 ### Authentication
 
 * thwackbin uses HTTP basic auth where the username is the API key and password is empty.
-* Use API Key: *DTOZZNWeCNWFWtuqqJEm14nnonVJMDXA9flmdvzg*
+* thwackbin uses the glocal API KEY: **DTOZZNWeCNWFWtuqqJEm14nnonVJMDXA9flmdvzg** to authorize all requests.
 
 ### Examples
 
@@ -21,7 +23,7 @@ See TODO.
 
 ## Documentation
 
-thwackbin documentation can be found [here]().
+thwackbin documentation can be found [here]().  
 AppThwack API documentation can be found [here](https://appthwack.com/docs/api).
 
 ## TODO
