@@ -10,7 +10,7 @@ HTTP request/response test service exposing the AppThwack REST API.
 
 ## Usage
 
-thwackbin is currently located at the [thwackbin.herokuapp.com](thwackbin.herokuapp.com) domain.
+thwackbin is currently located at the [thwackbin.herokuapp.com](http://thwackbin.herokuapp.com) domain.
 
 ### Authentication
 
