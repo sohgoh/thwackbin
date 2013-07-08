@@ -20,5 +20,4 @@ def valid_ext(filename):
     """
     Validate a file upload is of the correct application type.
     """
-    print os.path.splitext(filename)
-    return os.path.splitext(filename)[1]in ['.apk', '.ipa']
+    return os.path.splitext(filename)[1] in ['.apk', '.ipa', '.zip']

@@ -20,6 +20,7 @@ def authorize():
     """
     Authorize the client API KEY which comes in as basic auth username.
     """
+    print "AUTH!"
     auth = request.authorization
     if not auth or not auth.username == API_KEY:
         return abort(401)
