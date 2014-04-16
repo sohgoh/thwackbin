@@ -10,11 +10,13 @@ import flask
 import json
 import os
 
+
 def jsonify(obj):
     """
     Custom jsonify function to allow returning of lists as the root object.
     """
     return flask.Response(json.dumps(obj), mimetype='application/json')
+
 
 def valid_ext(filename):
     """

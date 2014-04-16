@@ -1,712 +1,1382 @@
 {
-    "failures_by_job": [
-        {
-            "description": null,
-            "results": [
-                {
-                    "description": "4.0.3",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2019030,
-                    "name": "HTC One X"
-                },
-                {
-                    "description": "4.0.3",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2019002,
-                    "name": "Samsung Galaxy Tab 2 7.0"
-                },
-                {
-                    "description": "4.0.3",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2019018,
-                    "name": "HTC One S"
-                },
-                {
-                    "description": "2.3.4",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2019022,
-                    "name": "Samsung Galaxy Ace"
-                },
-                {
-                    "description": "2.3.3",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2019058,
-                    "name": "HTC Desire HD"
-                },
-                {
-                    "description": "2.3.5",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2018962,
-                    "name": "HTC Evo 4G"
-                },
-                {
-                    "description": "2.3.4",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2018986,
-                    "name": "Motorola Droid X"
-                },
-                {
-                    "description": "2.3.5",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2018982,
-                    "name": "Samsung Galaxy S II Skyrocket"
-                },
-                {
-                    "description": "3.2",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2018966,
-                    "name": "Samsung Galaxy Tab 10.1"
-                },
-                {
-                    "description": "4.1.1",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2019042,
-                    "name": "Samsung Nexus S 4G"
-                },
-                {
-                    "description": "4.0.3",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2019006,
-                    "name": "Samsung Galaxy Tab 2 10.1"
-                },
-                {
-                    "description": "6.2.2_user_3205220",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2018974,
-                    "name": "Amazon Kindle Fire"
-                },
-                {
-                    "description": "4.0.4",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2019010,
-                    "name": "Motorola Droid RAZR"
-                },
-                {
-                    "description": "4.0.4",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2019038,
-                    "name": "Samsung Galaxy S III"
-                },
-                {
-                    "description": "2.3.6",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2018990,
-                    "name": "Samsung Galaxy Note"
-                },
-                {
-                    "description": "2.3.4",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2019026,
-                    "name": "Samsung Galaxy Mini"
-                },
-                {
-                    "description": "4.0.4",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2019034,
-                    "name": "Samsung Galaxy S II Epic 4G Touch"
-                },
-                {
-                    "description": "2.3.5",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2018978,
-                    "name": "Samsung Galaxy Y"
-                },
-                {
-                    "description": "4.1.1",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2018998,
-                    "name": "Samsung Galaxy Note II"
-                },
-                {
-                    "description": "2.3.3",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2018994,
-                    "name": "Samsung Galaxy S Plus"
-                },
-                {
-                    "description": "4.2",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2019050,
-                    "name": "Asus Nexus 7"
-                },
-                {
-                    "description": "4.1.1",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2018970,
-                    "name": "Samsung Galaxy Nexus"
-                }
-            ],
-            "id": 49537,
-            "name": "Launch"
-        },
-        {
-            "description": null,
-            "results": [
-                {
-                    "description": "4.0.4",
-                    "message": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2019047,
-                    "name": "Sony Xperia Arc S"
-                },
-                {
-                    "description": "2.3.4",
-                    "message": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2019027,
-                    "name": "Samsung Galaxy Mini"
-                },
-                {
-                    "description": "2.3.4",
-                    "message": "java.lang.ArithmeticException: divide by zero",
-                    "id": 2019015,
-                    "name": "Samsung Vitality"
-                },
-                {
-                    "description": "2.3.4",
-                    "message": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2019023,
-                    "name": "Samsung Galaxy Ace"
-                },
-                {
-                    "description": "2.3.5",
-                    "message": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2018963,
-                    "name": "HTC Evo 4G"
-                },
-                {
-                    "description": "2.3.5",
-                    "message": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2018979,
-                    "name": "Samsung Galaxy Y"
-                },
-                {
-                    "description": "2.3.3",
-                    "message": "java.lang.ArithmeticException: divide by zero",
-                    "id": 2019059,
-                    "name": "HTC Desire HD"
-                },
-                {
-                    "description": "4.0.4",
-                    "message": "java.lang.ArithmeticException: divide by zero",
-                    "id": 2019011,
-                    "name": "Motorola Droid RAZR"
-                },
-                {
-                    "description": "3.2",
-                    "message": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2018967,
-                    "name": "Samsung Galaxy Tab 10.1"
-                },
-                {
-                    "description": "2.3.5",
-                    "message": "java.lang.ArithmeticException: divide by zero",
-                    "id": 2018983,
-                    "name": "Samsung Galaxy S II Skyrocket"
-                },
-                {
-                    "description": "2.3.3",
-                    "message": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2018995,
-                    "name": "Samsung Galaxy S Plus"
-                },
-                {
-                    "description": "6.2.2_user_3205220",
-                    "message": "java.lang.ArithmeticException: divide by zero",
-                    "id": 2018975,
-                    "name": "Amazon Kindle Fire"
-                },
-                {
-                    "description": "2.1.1",
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2019055,
-                    "name": "HTC Desire"
-                },
-                {
-                    "description": "4.1.1",
-                    "message": "java.lang.ArithmeticException: divide by zero",
-                    "id": 2018971,
-                    "name": "Samsung Galaxy Nexus"
-                }
-            ],
-            "id": 49538,
-            "name": "Exerciser Monkey"
-        }
-    ],
     "performance_summary": {
-        "Threads_avg": {
-            "device": {
-                "name": "Sony Xperia Arc S",
-                "os_version": "4.0.4",
-                "id": 76
-            },
-            "value": "10.08"
-        },
         "CPU_min": {
             "device": {
-                "name": "Amazon Kindle Fire",
-                "os_version": "2.3.4",
-                "id": 8
-            },
-            "value": "1.87"
-        },
-        "Memory_avg": {
-            "device": {
-                "name": "Asus Nexus 7",
-                "os_version": "4.2",
-                "id": 77
-            },
-            "value": "4234.95"
-        },
-        "Threads_max": {
-            "device": {
-                "name": "Sony Xperia Arc S",
-                "os_version": "4.0.4",
-                "id": 76
-            },
-            "value": "11.96"
-        },
-        "CPU_max": {
-            "device": {
+                "cpu_architecture_version": 7,
                 "name": "Samsung Galaxy Note",
+                "model_id": "SAMSUNG-SGH-I717",
+                "front_image": "samsung-galaxy-note.png",
+                "cpu_info": "1.4 GHz ",
                 "os_version": "2.3.6",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "800 x 1280",
                 "id": 20
             },
-            "value": "12.86"
+            "value": "0.32"
         },
-        "Memory_min": {
+        "RXrate_min": {
             "device": {
-                "name": "Samsung Galaxy S Plus",
+                "cpu_architecture_version": 7,
+                "name": "HTC Desire HD",
+                "model_id": "HTC Desire HD A9191",
+                "front_image": "htc-desire-hd.png",
+                "cpu_info": "1.0 GHz",
                 "os_version": "2.3.3",
-                "id": 150
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "480 x 800",
+                "id": 83
             },
-            "value": "1997.0"
+            "value": "0.0"
+        },
+        "RXrate_max": {
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "HTC Desire HD",
+                "model_id": "HTC Desire HD A9191",
+                "front_image": "htc-desire-hd.png",
+                "cpu_info": "1.0 GHz",
+                "os_version": "2.3.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "480 x 800",
+                "id": 83
+            },
+            "value": "0.0"
+        },
+        "GLFPS_min": {
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "HTC Desire HD",
+                "model_id": "HTC Desire HD A9191",
+                "front_image": "htc-desire-hd.png",
+                "cpu_info": "1.0 GHz",
+                "os_version": "2.3.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "480 x 800",
+                "id": 83
+            },
+            "value": "0.0"
+        },
+        "TXrate_max": {
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "HTC Desire HD",
+                "model_id": "HTC Desire HD A9191",
+                "front_image": "htc-desire-hd.png",
+                "cpu_info": "1.0 GHz",
+                "os_version": "2.3.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "480 x 800",
+                "id": 83
+            },
+            "value": "0.0"
         },
         "CPU_avg": {
             "device": {
-                "name": "Samsung Galaxy Note",
-                "os_version": "2.3.6",
-                "id": 20
+                "cpu_architecture_version": 7,
+                "name": "Samsung Galaxy S",
+                "model_id": "SGH-T959",
+                "front_image": "samsung-galaxy-s.png",
+                "cpu_info": "1.0 GHz",
+                "os_version": "2.1-update1",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "480 x 800",
+                "id": 73
             },
-            "value": "5.42"
+            "value": "3.96"
         },
         "Threads_min": {
             "device": {
+                "cpu_architecture_version": 7,
                 "name": "Samsung Galaxy Note",
+                "model_id": "SAMSUNG-SGH-I717",
+                "front_image": "samsung-galaxy-note.png",
+                "cpu_info": "1.4 GHz ",
                 "os_version": "2.3.6",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "800 x 1280",
                 "id": 20
             },
             "value": "7.0"
         },
+        "RX_avg": {
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "HTC Desire HD",
+                "model_id": "HTC Desire HD A9191",
+                "front_image": "htc-desire-hd.png",
+                "cpu_info": "1.0 GHz",
+                "os_version": "2.3.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "480 x 800",
+                "id": 83
+            },
+            "value": "0.0"
+        },
+        "CPU_max": {
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "Samsung Galaxy S",
+                "model_id": "SGH-T959",
+                "front_image": "samsung-galaxy-s.png",
+                "cpu_info": "1.0 GHz",
+                "os_version": "2.1-update1",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "480 x 800",
+                "id": 73
+            },
+            "value": "8.6"
+        },
+        "TXrate_min": {
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "HTC Desire HD",
+                "model_id": "HTC Desire HD A9191",
+                "front_image": "htc-desire-hd.png",
+                "cpu_info": "1.0 GHz",
+                "os_version": "2.3.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "480 x 800",
+                "id": 83
+            },
+            "value": "0.0"
+        },
+        "GLFPS_avg": {
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "HTC Desire HD",
+                "model_id": "HTC Desire HD A9191",
+                "front_image": "htc-desire-hd.png",
+                "cpu_info": "1.0 GHz",
+                "os_version": "2.3.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "480 x 800",
+                "id": 83
+            },
+            "value": "0.0"
+        },
         "Memory_max": {
             "device": {
-                "name": "Asus Nexus 7",
-                "os_version": "4.2",
-                "id": 77
+                "cpu_architecture_version": 7,
+                "name": "Samsung Galaxy Note II",
+                "model_id": "GT-N7100",
+                "front_image": "samsung-galaxy-note-2.png",
+                "cpu_info": "1.6 GHz",
+                "os_version": "4.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "720 x 1280",
+                "id": 155
             },
-            "value": "7842.0"
+            "value": "4835.64"
+        },
+        "TX_max": {
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "HTC Desire HD",
+                "model_id": "HTC Desire HD A9191",
+                "front_image": "htc-desire-hd.png",
+                "cpu_info": "1.0 GHz",
+                "os_version": "2.3.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "480 x 800",
+                "id": 83
+            },
+            "value": "0.0"
+        },
+        "Memory_min": {
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "Samsung Galaxy Note",
+                "model_id": "SAMSUNG-SGH-I717",
+                "front_image": "samsung-galaxy-note.png",
+                "cpu_info": "1.4 GHz ",
+                "os_version": "2.3.6",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "800 x 1280",
+                "id": 20
+            },
+            "value": "1915.67"
+        },
+        "Threads_avg": {
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "Samsung Galaxy Note II",
+                "model_id": "GT-N7100",
+                "front_image": "samsung-galaxy-note-2.png",
+                "cpu_info": "1.6 GHz",
+                "os_version": "4.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "720 x 1280",
+                "id": 155
+            },
+            "value": "10.07"
+        },
+        "RX_max": {
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "HTC Desire HD",
+                "model_id": "HTC Desire HD A9191",
+                "front_image": "htc-desire-hd.png",
+                "cpu_info": "1.0 GHz",
+                "os_version": "2.3.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "480 x 800",
+                "id": 83
+            },
+            "value": "0.0"
+        },
+        "Memory_avg": {
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "Samsung Galaxy Note II",
+                "model_id": "GT-N7100",
+                "front_image": "samsung-galaxy-note-2.png",
+                "cpu_info": "1.6 GHz",
+                "os_version": "4.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "720 x 1280",
+                "id": 155
+            },
+            "value": "3363.25"
+        },
+        "Threads_max": {
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "Samsung Galaxy Note II",
+                "model_id": "GT-N7100",
+                "front_image": "samsung-galaxy-note-2.png",
+                "cpu_info": "1.6 GHz",
+                "os_version": "4.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "720 x 1280",
+                "id": 155
+            },
+            "value": "14.0"
+        },
+        "RXrate_avg": {
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "HTC Desire HD",
+                "model_id": "HTC Desire HD A9191",
+                "front_image": "htc-desire-hd.png",
+                "cpu_info": "1.0 GHz",
+                "os_version": "2.3.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "480 x 800",
+                "id": 83
+            },
+            "value": "0.0"
+        },
+        "RX_min": {
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "HTC Desire HD",
+                "model_id": "HTC Desire HD A9191",
+                "front_image": "htc-desire-hd.png",
+                "cpu_info": "1.0 GHz",
+                "os_version": "2.3.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "480 x 800",
+                "id": 83
+            },
+            "value": "0.0"
+        },
+        "TX_min": {
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "HTC Desire HD",
+                "model_id": "HTC Desire HD A9191",
+                "front_image": "htc-desire-hd.png",
+                "cpu_info": "1.0 GHz",
+                "os_version": "2.3.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "480 x 800",
+                "id": 83
+            },
+            "value": "0.0"
+        },
+        "TX_avg": {
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "HTC Desire HD",
+                "model_id": "HTC Desire HD A9191",
+                "front_image": "htc-desire-hd.png",
+                "cpu_info": "1.0 GHz",
+                "os_version": "2.3.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "480 x 800",
+                "id": 83
+            },
+            "value": "0.0"
+        },
+        "GLFPS_max": {
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "HTC Desire HD",
+                "model_id": "HTC Desire HD A9191",
+                "front_image": "htc-desire-hd.png",
+                "cpu_info": "1.0 GHz",
+                "os_version": "2.3.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "480 x 800",
+                "id": 83
+            },
+            "value": "0.0"
+        },
+        "TXrate_avg": {
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "HTC Desire HD",
+                "model_id": "HTC Desire HD A9191",
+                "front_image": "htc-desire-hd.png",
+                "cpu_info": "1.0 GHz",
+                "os_version": "2.3.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "480 x 800",
+                "id": 83
+            },
+            "value": "0.0"
         }
     },
-    "warnings_by_job": [],
     "failures_by_device": [
         {
-            "description": "2.3.5",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2018963,
-                    "name": "Exerciser Monkey"
-                },
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2018962,
-                    "name": "Launch"
-                }
-            ],
-            "id": 4,
-            "name": "HTC Evo 4G"
-        },
-        {
-            "description": "3.2",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2018967,
-                    "name": "Exerciser Monkey"
-                },
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2018966,
-                    "name": "Launch"
-                }
-            ],
-            "id": 5,
-            "name": "Samsung Galaxy Tab 10.1"
-        },
-        {
-            "description": "4.1.1",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.ArithmeticException: divide by zero",
-                    "id": 2018971,
-                    "name": "Exerciser Monkey"
-                },
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2018970,
-                    "name": "Launch"
-                }
-            ],
-            "id": 6,
-            "name": "Samsung Galaxy Nexus"
-        },
-        {
-            "description": "6.2.2_user_3205220",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.ArithmeticException: divide by zero",
-                    "id": 2018975,
-                    "name": "Exerciser Monkey"
-                },
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2018974,
-                    "name": "Launch"
-                }
-            ],
-            "id": 8,
-            "name": "Amazon Kindle Fire"
-        },
-        {
-            "description": "2.3.5",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2018979,
-                    "name": "Exerciser Monkey"
-                },
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2018978,
-                    "name": "Launch"
-                }
-            ],
-            "id": 9,
-            "name": "Samsung Galaxy Y"
-        },
-        {
-            "description": "2.3.5",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.ArithmeticException: divide by zero",
-                    "id": 2018983,
-                    "name": "Exerciser Monkey"
-                },
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2018982,
-                    "name": "Launch"
-                }
-            ],
-            "id": 10,
-            "name": "Samsung Galaxy S II Skyrocket"
-        },
-        {
-            "description": "4.0.4",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.ArithmeticException: divide by zero",
-                    "id": 2019011,
-                    "name": "Exerciser Monkey"
-                },
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2019010,
-                    "name": "Launch"
-                }
-            ],
-            "id": 42,
-            "name": "Motorola Droid RAZR"
-        },
-        {
-            "description": "2.3.4",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2019023,
-                    "name": "Exerciser Monkey"
-                },
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2019022,
-                    "name": "Launch"
-                }
-            ],
-            "id": 52,
-            "name": "Samsung Galaxy Ace"
-        },
-        {
-            "description": "2.3.4",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2019027,
-                    "name": "Exerciser Monkey"
-                },
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2019026,
-                    "name": "Launch"
-                }
-            ],
-            "id": 56,
-            "name": "Samsung Galaxy Mini"
-        },
-        {
-            "description": "2.3.3",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.ArithmeticException: divide by zero",
-                    "id": 2019059,
-                    "name": "Exerciser Monkey"
-                },
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2019058,
-                    "name": "Launch"
-                }
-            ],
-            "id": 83,
-            "name": "HTC Desire HD"
-        },
-        {
-            "description": "2.3.3",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2018995,
-                    "name": "Exerciser Monkey"
-                },
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2018994,
-                    "name": "Launch"
-                }
-            ],
-            "id": 150,
-            "name": "Samsung Galaxy S Plus"
-        },
-        {
-            "description": "2.3.4",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2018986,
-                    "name": "Launch"
-                }
-            ],
-            "id": 11,
-            "name": "Motorola Droid X"
-        },
-        {
-            "description": "2.3.6",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2018990,
-                    "name": "Launch"
-                }
-            ],
-            "id": 20,
-            "name": "Samsung Galaxy Note"
-        },
-        {
-            "description": "4.0.3",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2019002,
-                    "name": "Launch"
-                }
-            ],
-            "id": 28,
-            "name": "Samsung Galaxy Tab 2 7.0"
-        },
-        {
-            "description": "4.0.3",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2019006,
-                    "name": "Launch"
-                }
-            ],
-            "id": 40,
-            "name": "Samsung Galaxy Tab 2 10.1"
-        },
-        {
-            "description": "2.3.4",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.ArithmeticException: divide by zero",
-                    "id": 2019015,
-                    "name": "Exerciser Monkey"
-                }
-            ],
-            "id": 50,
-            "name": "Samsung Vitality"
-        },
-        {
-            "description": "4.0.3",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2019018,
-                    "name": "Launch"
-                }
-            ],
-            "id": 51,
-            "name": "HTC One S"
-        },
-        {
-            "description": "4.0.3",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2019030,
-                    "name": "Launch"
-                }
-            ],
-            "id": 58,
-            "name": "HTC One X"
-        },
-        {
-            "description": "4.0.4",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2019034,
-                    "name": "Launch"
-                }
-            ],
-            "id": 59,
-            "name": "Samsung Galaxy S II Epic 4G Touch"
-        },
-        {
-            "description": "4.0.4",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2019038,
-                    "name": "Launch"
-                }
-            ],
-            "id": 60,
-            "name": "Samsung Galaxy S III"
-        },
-        {
-            "description": "4.1.1",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2019042,
-                    "name": "Launch"
-                }
-            ],
-            "id": 65,
-            "name": "Samsung Nexus S 4G"
-        },
-        {
-            "description": "4.0.4",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2019047,
-                    "name": "Exerciser Monkey"
-                }
-            ],
-            "id": 76,
-            "name": "Sony Xperia Arc S"
-        },
-        {
-            "description": "4.2",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2019050,
-                    "name": "Launch"
-                }
-            ],
-            "id": 77,
-            "name": "Asus Nexus 7"
-        },
-        {
-            "description": "2.1.1",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-                    "id": 2019055,
-                    "name": "Exerciser Monkey"
-                }
-            ],
-            "id": 78,
-            "name": "HTC Desire"
-        },
-        {
-            "description": "4.1.1",
-            "results": [
-                {
-                    "description": null,
-                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-                    "id": 2018998,
-                    "name": "Launch"
-                }
-            ],
             "id": 155,
-            "name": "Samsung Galaxy Note II"
+            "description": "4.3",
+            "name": "Samsung Galaxy Note II",
+            "results": [
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
+                    "description": null,
+                    "name": "Launch and Explore",
+                    "id": 4107257
+                },
+                {
+                    "message": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
+                    "description": null,
+                    "name": "Exerciser Monkey",
+                    "id": 4107258
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "description": "2.1.1",
+            "name": "Samsung Galaxy S",
+            "results": [
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
+                    "description": null,
+                    "name": "Exerciser Monkey",
+                    "id": 4107230
+                },
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
+                    "description": null,
+                    "name": "Launch and Explore",
+                    "id": 4107229
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "description": "2.3.4",
+            "name": "Samsung Galaxy Mini",
+            "results": [
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
+                    "description": null,
+                    "name": "Launch and Explore",
+                    "id": 4107249
+                },
+                {
+                    "message": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
+                    "description": null,
+                    "name": "Exerciser Monkey",
+                    "id": 4107250
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "description": "2.3.4",
+            "name": "Samsung Galaxy Ace",
+            "results": [
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
+                    "description": null,
+                    "name": "Launch and Explore",
+                    "id": 4107241
+                },
+                {
+                    "message": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
+                    "description": null,
+                    "name": "Exerciser Monkey",
+                    "id": 4107242
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "description": "4.1.2",
+            "name": "Motorola Droid RAZR",
+            "results": [
+                {
+                    "message": "java.lang.ArithmeticException: divide by zero",
+                    "description": null,
+                    "name": "Exerciser Monkey",
+                    "id": 4107234
+                },
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
+                    "description": null,
+                    "name": "Launch and Explore",
+                    "id": 4107233
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "description": "2.3.6",
+            "name": "Samsung Galaxy Note",
+            "results": [
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
+                    "description": null,
+                    "name": "Launch and Explore",
+                    "id": 4107253
+                },
+                {
+                    "message": "java.lang.ArithmeticException: divide by zero",
+                    "description": null,
+                    "name": "Exerciser Monkey",
+                    "id": 4107254
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "description": "2.3.6",
+            "name": "Samsung Galaxy Y",
+            "results": [
+                {
+                    "message": "java.lang.ArithmeticException: divide by zero",
+                    "description": null,
+                    "name": "Exerciser Monkey",
+                    "id": 4107246
+                },
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
+                    "description": null,
+                    "name": "Launch and Explore",
+                    "id": 4107245
+                }
+            ]
+        },
+        {
+            "id": 243,
+            "description": "2.3.4",
+            "name": "Samsung Galaxy S II",
+            "results": [
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
+                    "description": null,
+                    "name": "Launch and Explore",
+                    "id": 4107237
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "description": "2.3.3",
+            "name": "HTC Desire HD",
+            "results": [
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
+                    "description": null,
+                    "name": "Launch and Explore",
+                    "id": 4107225
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "description": "4.1.2",
+            "name": "Samsung Galaxy S III",
+            "results": [
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
+                    "description": null,
+                    "name": "Launch and Explore",
+                    "id": 4107261
+                }
+            ]
+        }
+    ],
+    "warnings_by_job": [],
+    "passes_by_type": [
+        {
+            "results": [
+                {
+                    "message": "Uninstall",
+                    "description": "4.3",
+                    "name": "Samsung Galaxy Note II",
+                    "id": 4107259
+                },
+                {
+                    "message": "Uninstall",
+                    "description": "4.1.2",
+                    "name": "Samsung Galaxy S III",
+                    "id": 4107263
+                },
+                {
+                    "message": "Uninstall",
+                    "description": "2.1.1",
+                    "name": "Samsung Galaxy S",
+                    "id": 4107231
+                },
+                {
+                    "message": "Uninstall",
+                    "description": "2.3.6",
+                    "name": "Samsung Galaxy Y",
+                    "id": 4107247
+                },
+                {
+                    "message": "Uninstall",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy Mini",
+                    "id": 4107251
+                },
+                {
+                    "message": "Uninstall",
+                    "description": "2.3.3",
+                    "name": "HTC Desire HD",
+                    "id": 4107227
+                },
+                {
+                    "message": "Uninstall",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy S II",
+                    "id": 4107239
+                },
+                {
+                    "message": "Uninstall",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy Ace",
+                    "id": 4107243
+                },
+                {
+                    "message": "Uninstall",
+                    "description": "4.1.2",
+                    "name": "Motorola Droid RAZR",
+                    "id": 4107235
+                },
+                {
+                    "message": "Uninstall",
+                    "description": "2.3.6",
+                    "name": "Samsung Galaxy Note",
+                    "id": 4107255
+                }
+            ],
+            "name": "Application uninstallation test passed",
+            "id": "Application uninstallation test passed"
+        },
+        {
+            "results": [
+                {
+                    "message": "Install",
+                    "description": "4.1.2",
+                    "name": "Samsung Galaxy S III",
+                    "id": 4107260
+                },
+                {
+                    "message": "Install",
+                    "description": "4.3",
+                    "name": "Samsung Galaxy Note II",
+                    "id": 4107256
+                },
+                {
+                    "message": "Install",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy S II",
+                    "id": 4107236
+                },
+                {
+                    "message": "Install",
+                    "description": "2.1.1",
+                    "name": "Samsung Galaxy S",
+                    "id": 4107228
+                },
+                {
+                    "message": "Install",
+                    "description": "4.1.2",
+                    "name": "Motorola Droid RAZR",
+                    "id": 4107232
+                },
+                {
+                    "message": "Install",
+                    "description": "2.3.6",
+                    "name": "Samsung Galaxy Note",
+                    "id": 4107252
+                },
+                {
+                    "message": "Install",
+                    "description": "2.3.6",
+                    "name": "Samsung Galaxy Y",
+                    "id": 4107244
+                },
+                {
+                    "message": "Install",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy Ace",
+                    "id": 4107240
+                },
+                {
+                    "message": "Install",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy Mini",
+                    "id": 4107248
+                },
+                {
+                    "message": "Install",
+                    "description": "2.3.3",
+                    "name": "HTC Desire HD",
+                    "id": 4107224
+                }
+            ],
+            "name": "Application successfully installed",
+            "id": "Application successfully installed"
+        },
+        {
+            "results": [
+                {
+                    "message": "Exerciser Monkey",
+                    "description": "4.1.2",
+                    "name": "Samsung Galaxy S III",
+                    "id": 4107262
+                },
+                {
+                    "message": "Exerciser Monkey",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy S II",
+                    "id": 4107238
+                },
+                {
+                    "message": "Exerciser Monkey",
+                    "description": "2.3.3",
+                    "name": "HTC Desire HD",
+                    "id": 4107226
+                }
+            ],
+            "name": "UI Exerciser Monkey successfully completed, no failures found",
+            "id": "UI Exerciser Monkey successfully completed, no failures found"
+        }
+    ],
+    "summary": {
+        "count": 40,
+        "status": "completed",
+        "initiator": "Thwack",
+        "name": "HelloTrellis.apk (Jenkins)",
+        "failure_count": 17,
+        "start_time": "03:54 PM",
+        "public_url": null,
+        "warning_count": 0,
+        "start_date": "April 11, 2014",
+        "report_file": "results_for_51886.zip",
+        "result": "fail",
+        "id": 51886,
+        "pass_count": 23,
+        "minutes_used": 24,
+        "completed": 36,
+        "error_count": 0
+    },
+    "failures_by_job": [
+        {
+            "id": 169893,
+            "description": null,
+            "name": "Launch and Explore",
+            "results": [
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
+                    "description": "4.3",
+                    "name": "Samsung Galaxy Note II",
+                    "id": 4107257
+                },
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
+                    "description": "4.1.2",
+                    "name": "Samsung Galaxy S III",
+                    "id": 4107261
+                },
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy S II",
+                    "id": 4107237
+                },
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy Mini",
+                    "id": 4107249
+                },
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy Ace",
+                    "id": 4107241
+                },
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
+                    "description": "2.1.1",
+                    "name": "Samsung Galaxy S",
+                    "id": 4107229
+                },
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
+                    "description": "2.3.6",
+                    "name": "Samsung Galaxy Y",
+                    "id": 4107245
+                },
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
+                    "description": "2.3.3",
+                    "name": "HTC Desire HD",
+                    "id": 4107225
+                },
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
+                    "description": "4.1.2",
+                    "name": "Motorola Droid RAZR",
+                    "id": 4107233
+                },
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
+                    "description": "2.3.6",
+                    "name": "Samsung Galaxy Note",
+                    "id": 4107253
+                }
+            ]
+        },
+        {
+            "id": 169894,
+            "description": null,
+            "name": "Exerciser Monkey",
+            "results": [
+                {
+                    "message": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
+                    "description": "4.3",
+                    "name": "Samsung Galaxy Note II",
+                    "id": 4107258
+                },
+                {
+                    "message": "java.lang.ArithmeticException: divide by zero",
+                    "description": "2.3.6",
+                    "name": "Samsung Galaxy Y",
+                    "id": 4107246
+                },
+                {
+                    "message": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
+                    "description": "2.1.1",
+                    "name": "Samsung Galaxy S",
+                    "id": 4107230
+                },
+                {
+                    "message": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy Ace",
+                    "id": 4107242
+                },
+                {
+                    "message": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy Mini",
+                    "id": 4107250
+                },
+                {
+                    "message": "java.lang.ArithmeticException: divide by zero",
+                    "description": "4.1.2",
+                    "name": "Motorola Droid RAZR",
+                    "id": 4107234
+                },
+                {
+                    "message": "java.lang.ArithmeticException: divide by zero",
+                    "description": "2.3.6",
+                    "name": "Samsung Galaxy Note",
+                    "id": 4107254
+                }
+            ]
+        }
+    ],
+    "passes_by_job": [
+        {
+            "id": 169895,
+            "description": null,
+            "name": "Uninstall",
+            "results": [
+                {
+                    "message": "Application uninstallation test passed",
+                    "description": "4.3",
+                    "name": "Samsung Galaxy Note II",
+                    "id": 4107259
+                },
+                {
+                    "message": "Application uninstallation test passed",
+                    "description": "4.1.2",
+                    "name": "Samsung Galaxy S III",
+                    "id": 4107263
+                },
+                {
+                    "message": "Application uninstallation test passed",
+                    "description": "2.1.1",
+                    "name": "Samsung Galaxy S",
+                    "id": 4107231
+                },
+                {
+                    "message": "Application uninstallation test passed",
+                    "description": "2.3.6",
+                    "name": "Samsung Galaxy Y",
+                    "id": 4107247
+                },
+                {
+                    "message": "Application uninstallation test passed",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy Mini",
+                    "id": 4107251
+                },
+                {
+                    "message": "Application uninstallation test passed",
+                    "description": "2.3.3",
+                    "name": "HTC Desire HD",
+                    "id": 4107227
+                },
+                {
+                    "message": "Application uninstallation test passed",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy S II",
+                    "id": 4107239
+                },
+                {
+                    "message": "Application uninstallation test passed",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy Ace",
+                    "id": 4107243
+                },
+                {
+                    "message": "Application uninstallation test passed",
+                    "description": "4.1.2",
+                    "name": "Motorola Droid RAZR",
+                    "id": 4107235
+                },
+                {
+                    "message": "Application uninstallation test passed",
+                    "description": "2.3.6",
+                    "name": "Samsung Galaxy Note",
+                    "id": 4107255
+                }
+            ]
+        },
+        {
+            "id": 169892,
+            "description": null,
+            "name": "Install",
+            "results": [
+                {
+                    "message": "Application successfully installed",
+                    "description": "4.1.2",
+                    "name": "Samsung Galaxy S III",
+                    "id": 4107260
+                },
+                {
+                    "message": "Application successfully installed",
+                    "description": "4.3",
+                    "name": "Samsung Galaxy Note II",
+                    "id": 4107256
+                },
+                {
+                    "message": "Application successfully installed",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy S II",
+                    "id": 4107236
+                },
+                {
+                    "message": "Application successfully installed",
+                    "description": "2.1.1",
+                    "name": "Samsung Galaxy S",
+                    "id": 4107228
+                },
+                {
+                    "message": "Application successfully installed",
+                    "description": "4.1.2",
+                    "name": "Motorola Droid RAZR",
+                    "id": 4107232
+                },
+                {
+                    "message": "Application successfully installed",
+                    "description": "2.3.6",
+                    "name": "Samsung Galaxy Note",
+                    "id": 4107252
+                },
+                {
+                    "message": "Application successfully installed",
+                    "description": "2.3.6",
+                    "name": "Samsung Galaxy Y",
+                    "id": 4107244
+                },
+                {
+                    "message": "Application successfully installed",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy Ace",
+                    "id": 4107240
+                },
+                {
+                    "message": "Application successfully installed",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy Mini",
+                    "id": 4107248
+                },
+                {
+                    "message": "Application successfully installed",
+                    "description": "2.3.3",
+                    "name": "HTC Desire HD",
+                    "id": 4107224
+                }
+            ]
+        },
+        {
+            "id": 169894,
+            "description": null,
+            "name": "Exerciser Monkey",
+            "results": [
+                {
+                    "message": "UI Exerciser Monkey successfully completed, no failures found",
+                    "description": "4.1.2",
+                    "name": "Samsung Galaxy S III",
+                    "id": 4107262
+                },
+                {
+                    "message": "UI Exerciser Monkey successfully completed, no failures found",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy S II",
+                    "id": 4107238
+                },
+                {
+                    "message": "UI Exerciser Monkey successfully completed, no failures found",
+                    "description": "2.3.3",
+                    "name": "HTC Desire HD",
+                    "id": 4107226
+                }
+            ]
+        }
+    ],
+    "failures_by_type": [
+        {
+            "results": [
+                {
+                    "message": "Launch and Explore",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy S II",
+                    "id": 4107237
+                },
+                {
+                    "message": "Launch and Explore",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy Mini",
+                    "id": 4107249
+                },
+                {
+                    "message": "Launch and Explore",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy Ace",
+                    "id": 4107241
+                },
+                {
+                    "message": "Launch and Explore",
+                    "description": "2.1.1",
+                    "name": "Samsung Galaxy S",
+                    "id": 4107229
+                },
+                {
+                    "message": "Launch and Explore",
+                    "description": "4.1.2",
+                    "name": "Motorola Droid RAZR",
+                    "id": 4107233
+                },
+                {
+                    "message": "Launch and Explore",
+                    "description": "2.3.6",
+                    "name": "Samsung Galaxy Note",
+                    "id": 4107253
+                }
+            ],
+            "name": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
+            "id": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero"
+        },
+        {
+            "results": [
+                {
+                    "message": "Launch and Explore",
+                    "description": "4.3",
+                    "name": "Samsung Galaxy Note II",
+                    "id": 4107257
+                },
+                {
+                    "message": "Launch and Explore",
+                    "description": "4.1.2",
+                    "name": "Samsung Galaxy S III",
+                    "id": 4107261
+                },
+                {
+                    "message": "Exerciser Monkey",
+                    "description": "2.1.1",
+                    "name": "Samsung Galaxy S",
+                    "id": 4107230
+                },
+                {
+                    "message": "Launch and Explore",
+                    "description": "2.3.6",
+                    "name": "Samsung Galaxy Y",
+                    "id": 4107245
+                },
+                {
+                    "message": "Launch and Explore",
+                    "description": "2.3.3",
+                    "name": "HTC Desire HD",
+                    "id": 4107225
+                }
+            ],
+            "name": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
+            "id": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException"
+        },
+        {
+            "results": [
+                {
+                    "message": "Exerciser Monkey",
+                    "description": "4.3",
+                    "name": "Samsung Galaxy Note II",
+                    "id": 4107258
+                },
+                {
+                    "message": "Exerciser Monkey",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy Ace",
+                    "id": 4107242
+                },
+                {
+                    "message": "Exerciser Monkey",
+                    "description": "2.3.4",
+                    "name": "Samsung Galaxy Mini",
+                    "id": 4107250
+                }
+            ],
+            "name": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
+            "id": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException"
+        },
+        {
+            "results": [
+                {
+                    "message": "Exerciser Monkey",
+                    "description": "2.3.6",
+                    "name": "Samsung Galaxy Y",
+                    "id": 4107246
+                },
+                {
+                    "message": "Exerciser Monkey",
+                    "description": "4.1.2",
+                    "name": "Motorola Droid RAZR",
+                    "id": 4107234
+                },
+                {
+                    "message": "Exerciser Monkey",
+                    "description": "2.3.6",
+                    "name": "Samsung Galaxy Note",
+                    "id": 4107254
+                }
+            ],
+            "name": "java.lang.ArithmeticException: divide by zero",
+            "id": "java.lang.ArithmeticException: divide by zero"
+        }
+    ],
+    "passes_by_device": [
+        {
+            "id": 243,
+            "description": "2.3.4",
+            "name": "Samsung Galaxy S II",
+            "results": [
+                {
+                    "message": "Application successfully installed",
+                    "description": null,
+                    "name": "Install",
+                    "id": 4107236
+                },
+                {
+                    "message": "UI Exerciser Monkey successfully completed, no failures found",
+                    "description": null,
+                    "name": "Exerciser Monkey",
+                    "id": 4107238
+                },
+                {
+                    "message": "Application uninstallation test passed",
+                    "description": null,
+                    "name": "Uninstall",
+                    "id": 4107239
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "description": "2.3.3",
+            "name": "HTC Desire HD",
+            "results": [
+                {
+                    "message": "Application uninstallation test passed",
+                    "description": null,
+                    "name": "Uninstall",
+                    "id": 4107227
+                },
+                {
+                    "message": "UI Exerciser Monkey successfully completed, no failures found",
+                    "description": null,
+                    "name": "Exerciser Monkey",
+                    "id": 4107226
+                },
+                {
+                    "message": "Application successfully installed",
+                    "description": null,
+                    "name": "Install",
+                    "id": 4107224
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "description": "4.1.2",
+            "name": "Samsung Galaxy S III",
+            "results": [
+                {
+                    "message": "Application successfully installed",
+                    "description": null,
+                    "name": "Install",
+                    "id": 4107260
+                },
+                {
+                    "message": "UI Exerciser Monkey successfully completed, no failures found",
+                    "description": null,
+                    "name": "Exerciser Monkey",
+                    "id": 4107262
+                },
+                {
+                    "message": "Application uninstallation test passed",
+                    "description": null,
+                    "name": "Uninstall",
+                    "id": 4107263
+                }
+            ]
+        },
+        {
+            "id": 155,
+            "description": "4.3",
+            "name": "Samsung Galaxy Note II",
+            "results": [
+                {
+                    "message": "Application uninstallation test passed",
+                    "description": null,
+                    "name": "Uninstall",
+                    "id": 4107259
+                },
+                {
+                    "message": "Application successfully installed",
+                    "description": null,
+                    "name": "Install",
+                    "id": 4107256
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "description": "2.1.1",
+            "name": "Samsung Galaxy S",
+            "results": [
+                {
+                    "message": "Application uninstallation test passed",
+                    "description": null,
+                    "name": "Uninstall",
+                    "id": 4107231
+                },
+                {
+                    "message": "Application successfully installed",
+                    "description": null,
+                    "name": "Install",
+                    "id": 4107228
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "description": "2.3.4",
+            "name": "Samsung Galaxy Mini",
+            "results": [
+                {
+                    "message": "Application uninstallation test passed",
+                    "description": null,
+                    "name": "Uninstall",
+                    "id": 4107251
+                },
+                {
+                    "message": "Application successfully installed",
+                    "description": null,
+                    "name": "Install",
+                    "id": 4107248
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "description": "2.3.4",
+            "name": "Samsung Galaxy Ace",
+            "results": [
+                {
+                    "message": "Application uninstallation test passed",
+                    "description": null,
+                    "name": "Uninstall",
+                    "id": 4107243
+                },
+                {
+                    "message": "Application successfully installed",
+                    "description": null,
+                    "name": "Install",
+                    "id": 4107240
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "description": "4.1.2",
+            "name": "Motorola Droid RAZR",
+            "results": [
+                {
+                    "message": "Application successfully installed",
+                    "description": null,
+                    "name": "Install",
+                    "id": 4107232
+                },
+                {
+                    "message": "Application uninstallation test passed",
+                    "description": null,
+                    "name": "Uninstall",
+                    "id": 4107235
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "description": "2.3.6",
+            "name": "Samsung Galaxy Note",
+            "results": [
+                {
+                    "message": "Application successfully installed",
+                    "description": null,
+                    "name": "Install",
+                    "id": 4107252
+                },
+                {
+                    "message": "Application uninstallation test passed",
+                    "description": null,
+                    "name": "Uninstall",
+                    "id": 4107255
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "description": "2.3.6",
+            "name": "Samsung Galaxy Y",
+            "results": [
+                {
+                    "message": "Application uninstallation test passed",
+                    "description": null,
+                    "name": "Uninstall",
+                    "id": 4107247
+                },
+                {
+                    "message": "Application successfully installed",
+                    "description": null,
+                    "name": "Install",
+                    "id": 4107244
+                }
+            ]
         }
     ],
     "warnings_by_type": [],
     "performance": [
         {
-            "device": {
-                "name": "HTC Evo 4G",
-                "os_version": "2.3.5",
-                "id": 4
+            "tx": {
+                "max": {
+                    "timestamp": null,
+                    "name": "TX_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "TX_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "TX_min",
+                    "value": "0"
+                }
             },
+            "rx": {
+                "max": {
+                    "timestamp": null,
+                    "name": "RX_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "RX_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "RX_min",
+                    "value": "0"
+                }
+            },
+            "txrate": {
+                "max": {
+                    "timestamp": null,
+                    "name": "TXrate_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "TXrate_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "TXrate_min",
+                    "value": "0"
+                }
+            },
+            "rxrate": {
+                "max": {
+                    "timestamp": null,
+                    "name": "RXrate_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "RXrate_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "RXrate_min",
+                    "value": "0"
+                }
+            },
+            "id": 243,
             "threads": {
                 "max": {
                     "timestamp": null,
@@ -716,123 +1386,307 @@
                 "avg": {
                     "timestamp": null,
                     "name": "Threads_avg",
-                    "value": "9.91"
+                    "value": "9.31"
                 },
                 "min": {
                     "timestamp": null,
                     "name": "Threads_min",
-                    "value": "9"
-                }
-            },
-            "cpu": {
-                "max": {
-                    "timestamp": null,
-                    "name": "CPU_max",
-                    "value": "5.19"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "CPU_avg",
-                    "value": "3.82"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "CPU_min",
-                    "value": "2.39"
+                    "value": "7"
                 }
             },
             "memory": {
                 "max": {
                     "timestamp": null,
                     "name": "Memory_max",
-                    "value": "4601"
+                    "value": "4015"
                 },
                 "avg": {
                     "timestamp": null,
                     "name": "Memory_avg",
-                    "value": "4299.27"
+                    "value": "3244.38"
                 },
                 "min": {
                     "timestamp": null,
                     "name": "Memory_min",
-                    "value": "3838"
+                    "value": "1569"
                 }
-            }
-        },
-        {
+            },
             "device": {
-                "name": "Samsung Galaxy Tab 10.1",
-                "os_version": "3.2",
-                "id": 5
-            },
-            "threads": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Threads_max",
-                    "value": "10"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Threads_avg",
-                    "value": "9.91"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Threads_min",
-                    "value": "9"
-                }
-            },
-            "cpu": {
-                "max": {
-                    "timestamp": null,
-                    "name": "CPU_max",
-                    "value": "3.76"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "CPU_avg",
-                    "value": "3.3"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "CPU_min",
-                    "value": "2.68"
-                }
-            },
-            "memory": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Memory_max",
-                    "value": "5988"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Memory_avg",
-                    "value": "4977.23"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Memory_min",
-                    "value": "2202"
-                }
-            }
-        },
-        {
-            "device": {
-                "name": "Amazon Kindle Fire",
+                "cpu_architecture_version": 7,
+                "name": "Samsung Galaxy S II",
+                "model_id": "GT-I9100",
+                "front_image": "samsung-galaxy-s2-skyrocket.png",
+                "cpu_info": "1.2 GHz",
                 "os_version": "2.3.4",
-                "id": 8
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "480 x 800",
+                "id": 243
+            },
+            "cpu": {
+                "max": {
+                    "timestamp": null,
+                    "name": "CPU_max",
+                    "value": "9.28"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "CPU_avg",
+                    "value": "4.45"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "CPU_min",
+                    "value": "0.51"
+                }
+            }
+        },
+        {
+            "tx": {
+                "max": {
+                    "timestamp": null,
+                    "name": "TX_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "TX_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "TX_min",
+                    "value": "0"
+                }
+            },
+            "rx": {
+                "max": {
+                    "timestamp": null,
+                    "name": "RX_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "RX_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "RX_min",
+                    "value": "0"
+                }
+            },
+            "txrate": {
+                "max": {
+                    "timestamp": null,
+                    "name": "TXrate_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "TXrate_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "TXrate_min",
+                    "value": "0"
+                }
+            },
+            "rxrate": {
+                "max": {
+                    "timestamp": null,
+                    "name": "RXrate_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "RXrate_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "RXrate_min",
+                    "value": "0"
+                }
+            },
+            "id": 73,
+            "glfps": {
+                "max": {
+                    "timestamp": null,
+                    "name": "GLFPS_max",
+                    "value": "0.0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "GLFPS_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "GLFPS_min",
+                    "value": "0.0"
+                }
             },
             "threads": {
                 "max": {
                     "timestamp": null,
                     "name": "Threads_max",
-                    "value": "11"
+                    "value": "10"
                 },
                 "avg": {
                     "timestamp": null,
                     "name": "Threads_avg",
-                    "value": "11.0"
+                    "value": "9.26"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "Threads_min",
+                    "value": "9"
+                }
+            },
+            "memory": {
+                "max": {
+                    "timestamp": null,
+                    "name": "Memory_max",
+                    "value": "4030"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "Memory_avg",
+                    "value": "3904.66"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "Memory_min",
+                    "value": "3282"
+                }
+            },
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "Samsung Galaxy S",
+                "model_id": "SGH-T959",
+                "front_image": "samsung-galaxy-s.png",
+                "cpu_info": "1.0 GHz",
+                "os_version": "2.1-update1",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "480 x 800",
+                "id": 73
+            },
+            "cpu": {
+                "max": {
+                    "timestamp": null,
+                    "name": "CPU_max",
+                    "value": "11.98"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "CPU_avg",
+                    "value": "8.6"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "CPU_min",
+                    "value": "3.64"
+                }
+            }
+        },
+        {
+            "tx": {
+                "max": {
+                    "timestamp": null,
+                    "name": "TX_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "TX_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "TX_min",
+                    "value": "0"
+                }
+            },
+            "rx": {
+                "max": {
+                    "timestamp": null,
+                    "name": "RX_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "RX_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "RX_min",
+                    "value": "0"
+                }
+            },
+            "txrate": {
+                "max": {
+                    "timestamp": null,
+                    "name": "TXrate_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "TXrate_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "TXrate_min",
+                    "value": "0"
+                }
+            },
+            "rxrate": {
+                "max": {
+                    "timestamp": null,
+                    "name": "RXrate_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "RXrate_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "RXrate_min",
+                    "value": "0"
+                }
+            },
+            "id": 83,
+            "glfps": {
+                "max": {
+                    "timestamp": null,
+                    "name": "GLFPS_max",
+                    "value": "0.0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "GLFPS_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "GLFPS_min",
+                    "value": "0.0"
+                }
+            },
+            "threads": {
+                "max": {
+                    "timestamp": null,
+                    "name": "Threads_max",
+                    "value": "12"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "Threads_avg",
+                    "value": "11.94"
                 },
                 "min": {
                     "timestamp": null,
@@ -840,187 +1694,351 @@
                     "value": "11"
                 }
             },
+            "memory": {
+                "max": {
+                    "timestamp": null,
+                    "name": "Memory_max",
+                    "value": "4033"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "Memory_avg",
+                    "value": "3784.45"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "Memory_min",
+                    "value": "2312"
+                }
+            },
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "HTC Desire HD",
+                "model_id": "HTC Desire HD A9191",
+                "front_image": "htc-desire-hd.png",
+                "cpu_info": "1.0 GHz",
+                "os_version": "2.3.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "480 x 800",
+                "id": 83
+            },
             "cpu": {
                 "max": {
                     "timestamp": null,
                     "name": "CPU_max",
-                    "value": "2.72"
+                    "value": "8.33"
                 },
                 "avg": {
                     "timestamp": null,
                     "name": "CPU_avg",
-                    "value": "1.87"
+                    "value": "4.46"
                 },
                 "min": {
                     "timestamp": null,
                     "name": "CPU_min",
-                    "value": "0.71"
+                    "value": "2.76"
+                }
+            }
+        },
+        {
+            "device": {
+                "cpu_architecture_version": 6,
+                "name": "Samsung Galaxy Ace",
+                "model_id": "GT-S5830L",
+                "front_image": "samsung-galaxy-ace.png",
+                "cpu_info": "800 MHz",
+                "os_version": "2.3.4",
+                "cpu_architecture_description": "ARMv6",
+                "resolution": "320 x 480",
+                "id": 52
+            },
+            "glfps": {
+                "max": {
+                    "timestamp": null,
+                    "name": "GLFPS_max",
+                    "value": "0.0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "GLFPS_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "GLFPS_min",
+                    "value": "0.0"
+                }
+            },
+            "id": 52,
+            "memory": {
+                "max": {
+                    "timestamp": null,
+                    "name": "Memory_max",
+                    "value": "2157"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "Memory_avg",
+                    "value": "2118.5"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "Memory_min",
+                    "value": "2080"
+                }
+            }
+        },
+        {
+            "tx": {
+                "max": {
+                    "timestamp": null,
+                    "name": "TX_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "TX_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "TX_min",
+                    "value": "0"
+                }
+            },
+            "rx": {
+                "max": {
+                    "timestamp": null,
+                    "name": "RX_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "RX_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "RX_min",
+                    "value": "0"
+                }
+            },
+            "txrate": {
+                "max": {
+                    "timestamp": null,
+                    "name": "TXrate_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "TXrate_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "TXrate_min",
+                    "value": "0"
+                }
+            },
+            "rxrate": {
+                "max": {
+                    "timestamp": null,
+                    "name": "RXrate_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "RXrate_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "RXrate_min",
+                    "value": "0"
+                }
+            },
+            "id": 9,
+            "threads": {
+                "max": {
+                    "timestamp": null,
+                    "name": "Threads_max",
+                    "value": "10"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "Threads_avg",
+                    "value": "10.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "Threads_min",
+                    "value": "10"
                 }
             },
             "memory": {
                 "max": {
                     "timestamp": null,
                     "name": "Memory_max",
-                    "value": "6605"
+                    "value": "4052"
                 },
                 "avg": {
                     "timestamp": null,
                     "name": "Memory_avg",
-                    "value": "5847.73"
+                    "value": "3401.42"
                 },
                 "min": {
                     "timestamp": null,
                     "name": "Memory_min",
-                    "value": "5379"
+                    "value": "1762"
                 }
-            }
-        },
-        {
+            },
             "device": {
+                "cpu_architecture_version": 6,
                 "name": "Samsung Galaxy Y",
-                "os_version": "2.3.5",
+                "model_id": "GT-S5360",
+                "front_image": "samsung-galaxy-y.png",
+                "cpu_info": "830 MHz",
+                "os_version": "2.3.6",
+                "cpu_architecture_description": "ARMv6",
+                "resolution": "240 x 320",
                 "id": 9
             },
-            "memory": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Memory_max",
-                    "value": "2157"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Memory_avg",
-                    "value": "2157.0"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Memory_min",
-                    "value": "2157"
-                }
-            }
-        },
-        {
-            "device": {
-                "name": "Samsung Galaxy S II Skyrocket",
-                "os_version": "2.3.5",
-                "id": 10
-            },
-            "threads": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Threads_max",
-                    "value": "11"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Threads_avg",
-                    "value": "11.0"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Threads_min",
-                    "value": "11"
-                }
-            },
             "cpu": {
                 "max": {
                     "timestamp": null,
                     "name": "CPU_max",
-                    "value": "6.07"
+                    "value": "4.63"
                 },
                 "avg": {
                     "timestamp": null,
                     "name": "CPU_avg",
-                    "value": "3.61"
+                    "value": "3.0"
                 },
                 "min": {
                     "timestamp": null,
                     "name": "CPU_min",
-                    "value": "0.37"
-                }
-            },
-            "memory": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Memory_max",
-                    "value": "4544"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Memory_avg",
-                    "value": "4016.5"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Memory_min",
-                    "value": "1742"
+                    "value": "2.06"
                 }
             }
         },
         {
             "device": {
-                "name": "Motorola Droid X",
+                "cpu_architecture_version": 6,
+                "name": "Samsung Galaxy Mini",
+                "model_id": "GT-S5570",
+                "front_image": "samsung-galaxy-mini.png",
+                "cpu_info": "600 MHz",
                 "os_version": "2.3.4",
-                "id": 11
+                "cpu_architecture_description": "ARMv6",
+                "resolution": "240 x 320",
+                "id": 56
             },
-            "threads": {
+            "glfps": {
                 "max": {
                     "timestamp": null,
-                    "name": "Threads_max",
-                    "value": "10"
+                    "name": "GLFPS_max",
+                    "value": "0.0"
                 },
                 "avg": {
                     "timestamp": null,
-                    "name": "Threads_avg",
-                    "value": "9.83"
+                    "name": "GLFPS_avg",
+                    "value": "0.0"
                 },
                 "min": {
                     "timestamp": null,
-                    "name": "Threads_min",
-                    "value": "9"
+                    "name": "GLFPS_min",
+                    "value": "0.0"
                 }
             },
-            "cpu": {
-                "max": {
-                    "timestamp": null,
-                    "name": "CPU_max",
-                    "value": "28.94"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "CPU_avg",
-                    "value": "6.43"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "CPU_min",
-                    "value": "2.39"
-                }
-            },
+            "id": 56,
             "memory": {
                 "max": {
                     "timestamp": null,
                     "name": "Memory_max",
-                    "value": "4651"
+                    "value": "3200"
                 },
                 "avg": {
                     "timestamp": null,
                     "name": "Memory_avg",
-                    "value": "4085.07"
+                    "value": "3200.0"
                 },
                 "min": {
                     "timestamp": null,
                     "name": "Memory_min",
-                    "value": "3163"
+                    "value": "3200"
                 }
             }
         },
         {
-            "device": {
-                "name": "Samsung Galaxy Note",
-                "os_version": "2.3.6",
-                "id": 20
+            "tx": {
+                "max": {
+                    "timestamp": null,
+                    "name": "TX_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "TX_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "TX_min",
+                    "value": "0"
+                }
             },
+            "rx": {
+                "max": {
+                    "timestamp": null,
+                    "name": "RX_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "RX_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "RX_min",
+                    "value": "0"
+                }
+            },
+            "txrate": {
+                "max": {
+                    "timestamp": null,
+                    "name": "TXrate_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "TXrate_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "TXrate_min",
+                    "value": "0"
+                }
+            },
+            "rxrate": {
+                "max": {
+                    "timestamp": null,
+                    "name": "RXrate_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "RXrate_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "RXrate_min",
+                    "value": "0"
+                }
+            },
+            "id": 20,
             "threads": {
                 "max": {
                     "timestamp": null,
@@ -1038,621 +2056,272 @@
                     "value": "7"
                 }
             },
+            "memory": {
+                "max": {
+                    "timestamp": null,
+                    "name": "Memory_max",
+                    "value": "2007"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "Memory_avg",
+                    "value": "1915.67"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "Memory_min",
+                    "value": "1867"
+                }
+            },
+            "device": {
+                "cpu_architecture_version": 7,
+                "name": "Samsung Galaxy Note",
+                "model_id": "SAMSUNG-SGH-I717",
+                "front_image": "samsung-galaxy-note.png",
+                "cpu_info": "1.4 GHz ",
+                "os_version": "2.3.6",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "800 x 1280",
+                "id": 20
+            },
             "cpu": {
                 "max": {
                     "timestamp": null,
                     "name": "CPU_max",
-                    "value": "12.86"
+                    "value": "0.32"
                 },
                 "avg": {
                     "timestamp": null,
                     "name": "CPU_avg",
-                    "value": "12.86"
+                    "value": "0.32"
                 },
                 "min": {
                     "timestamp": null,
                     "name": "CPU_min",
-                    "value": "12.86"
+                    "value": "0.32"
+                }
+            }
+        },
+        {
+            "tx": {
+                "max": {
+                    "timestamp": null,
+                    "name": "TX_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "TX_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "TX_min",
+                    "value": "0"
+                }
+            },
+            "rx": {
+                "max": {
+                    "timestamp": null,
+                    "name": "RX_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "RX_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "RX_min",
+                    "value": "0"
+                }
+            },
+            "txrate": {
+                "max": {
+                    "timestamp": null,
+                    "name": "TXrate_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "TXrate_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "TXrate_min",
+                    "value": "0"
+                }
+            },
+            "rxrate": {
+                "max": {
+                    "timestamp": null,
+                    "name": "RXrate_max",
+                    "value": "0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "RXrate_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "RXrate_min",
+                    "value": "0"
+                }
+            },
+            "id": 155,
+            "glfps": {
+                "max": {
+                    "timestamp": null,
+                    "name": "GLFPS_max",
+                    "value": "0.0"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "GLFPS_avg",
+                    "value": "0.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "GLFPS_min",
+                    "value": "0.0"
+                }
+            },
+            "threads": {
+                "max": {
+                    "timestamp": null,
+                    "name": "Threads_max",
+                    "value": "14"
+                },
+                "avg": {
+                    "timestamp": null,
+                    "name": "Threads_avg",
+                    "value": "14.0"
+                },
+                "min": {
+                    "timestamp": null,
+                    "name": "Threads_min",
+                    "value": "14"
                 }
             },
             "memory": {
                 "max": {
                     "timestamp": null,
                     "name": "Memory_max",
-                    "value": "3071"
+                    "value": "5466"
                 },
                 "avg": {
                     "timestamp": null,
                     "name": "Memory_avg",
-                    "value": "2938.0"
+                    "value": "4835.64"
                 },
                 "min": {
                     "timestamp": null,
                     "name": "Memory_min",
-                    "value": "2805"
+                    "value": "3572"
                 }
-            }
-        },
-        {
-            "device": {
-                "name": "Samsung Galaxy S Plus",
-                "os_version": "2.3.3",
-                "id": 150
             },
-            "memory": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Memory_max",
-                    "value": "1997"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Memory_avg",
-                    "value": "1997.0"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Memory_min",
-                    "value": "1997"
-                }
-            }
-        },
-        {
             "device": {
+                "cpu_architecture_version": 7,
                 "name": "Samsung Galaxy Note II",
-                "os_version": "4.1.1",
+                "model_id": "GT-N7100",
+                "front_image": "samsung-galaxy-note-2.png",
+                "cpu_info": "1.6 GHz",
+                "os_version": "4.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "720 x 1280",
                 "id": 155
             },
-            "memory": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Memory_max",
-                    "value": "3611"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Memory_avg",
-                    "value": "3611.0"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Memory_min",
-                    "value": "3611"
-                }
-            }
-        },
-        {
-            "device": {
-                "name": "Samsung Galaxy Tab 2 7.0",
-                "os_version": "4.0.3",
-                "id": 28
-            },
-            "threads": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Threads_max",
-                    "value": "10"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Threads_avg",
-                    "value": "10.0"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Threads_min",
-                    "value": "10"
-                }
-            },
             "cpu": {
                 "max": {
                     "timestamp": null,
                     "name": "CPU_max",
-                    "value": "6.56"
+                    "value": "3.58"
                 },
                 "avg": {
                     "timestamp": null,
                     "name": "CPU_avg",
-                    "value": "5.98"
+                    "value": "3.13"
                 },
                 "min": {
                     "timestamp": null,
                     "name": "CPU_min",
-                    "value": "5.64"
-                }
-            },
-            "memory": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Memory_max",
-                    "value": "6273"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Memory_avg",
-                    "value": "5597.25"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Memory_min",
-                    "value": "4111"
+                    "value": "2.71"
                 }
             }
         },
         {
-            "device": {
-                "name": "Samsung Galaxy Tab 2 10.1",
-                "os_version": "4.0.3",
-                "id": 40
-            },
-            "threads": {
+            "tx": {
                 "max": {
                     "timestamp": null,
-                    "name": "Threads_max",
-                    "value": "10"
+                    "name": "TX_max",
+                    "value": "0"
                 },
                 "avg": {
                     "timestamp": null,
-                    "name": "Threads_avg",
-                    "value": "10.0"
+                    "name": "TX_avg",
+                    "value": "0.0"
                 },
                 "min": {
                     "timestamp": null,
-                    "name": "Threads_min",
-                    "value": "10"
+                    "name": "TX_min",
+                    "value": "0"
                 }
             },
-            "cpu": {
+            "rx": {
                 "max": {
                     "timestamp": null,
-                    "name": "CPU_max",
-                    "value": "9.89"
+                    "name": "RX_max",
+                    "value": "0"
                 },
                 "avg": {
                     "timestamp": null,
-                    "name": "CPU_avg",
-                    "value": "9.89"
+                    "name": "RX_avg",
+                    "value": "0.0"
                 },
                 "min": {
                     "timestamp": null,
-                    "name": "CPU_min",
-                    "value": "9.89"
+                    "name": "RX_min",
+                    "value": "0"
                 }
             },
-            "memory": {
+            "txrate": {
                 "max": {
                     "timestamp": null,
-                    "name": "Memory_max",
-                    "value": "5711"
+                    "name": "TXrate_max",
+                    "value": "0"
                 },
                 "avg": {
                     "timestamp": null,
-                    "name": "Memory_avg",
-                    "value": "5504.0"
+                    "name": "TXrate_avg",
+                    "value": "0.0"
                 },
                 "min": {
                     "timestamp": null,
-                    "name": "Memory_min",
-                    "value": "5297"
+                    "name": "TXrate_min",
+                    "value": "0"
                 }
-            }
-        },
-        {
-            "device": {
-                "name": "Samsung Vitality",
-                "os_version": "2.3.4",
-                "id": 50
             },
-            "threads": {
+            "rxrate": {
                 "max": {
                     "timestamp": null,
-                    "name": "Threads_max",
-                    "value": "10"
+                    "name": "RXrate_max",
+                    "value": "0"
                 },
                 "avg": {
                     "timestamp": null,
-                    "name": "Threads_avg",
-                    "value": "9.9"
+                    "name": "RXrate_avg",
+                    "value": "0.0"
                 },
                 "min": {
                     "timestamp": null,
-                    "name": "Threads_min",
-                    "value": "9"
+                    "name": "RXrate_min",
+                    "value": "0"
                 }
             },
-            "cpu": {
-                "max": {
-                    "timestamp": null,
-                    "name": "CPU_max",
-                    "value": "7.35"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "CPU_avg",
-                    "value": "4.38"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "CPU_min",
-                    "value": "1.95"
-                }
-            },
-            "memory": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Memory_max",
-                    "value": "4198"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Memory_avg",
-                    "value": "3778.58"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Memory_min",
-                    "value": "2650"
-                }
-            }
-        },
-        {
-            "device": {
-                "name": "HTC One S",
-                "os_version": "4.0.3",
-                "id": 51
-            },
-            "memory": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Memory_max",
-                    "value": "4463"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Memory_avg",
-                    "value": "4463.0"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Memory_min",
-                    "value": "4463"
-                }
-            }
-        },
-        {
-            "device": {
-                "name": "Samsung Galaxy Ace",
-                "os_version": "2.3.4",
-                "id": 52
-            },
-            "threads": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Threads_max",
-                    "value": "10"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Threads_avg",
-                    "value": "9.9"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Threads_min",
-                    "value": "9"
-                }
-            },
-            "cpu": {
-                "max": {
-                    "timestamp": null,
-                    "name": "CPU_max",
-                    "value": "6.8"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "CPU_avg",
-                    "value": "4.09"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "CPU_min",
-                    "value": "2.91"
-                }
-            },
-            "memory": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Memory_max",
-                    "value": "4644"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Memory_avg",
-                    "value": "3942.17"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Memory_min",
-                    "value": "2093"
-                }
-            }
-        },
-        {
-            "device": {
-                "name": "Samsung Galaxy Mini",
-                "os_version": "2.3.4",
-                "id": 56
-            },
-            "memory": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Memory_max",
-                    "value": "2030"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Memory_avg",
-                    "value": "2030.0"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Memory_min",
-                    "value": "2030"
-                }
-            }
-        },
-        {
-            "device": {
-                "name": "HTC One X",
-                "os_version": "4.0.3",
-                "id": 58
-            },
-            "threads": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Threads_max",
-                    "value": "12"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Threads_avg",
-                    "value": "11.73"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Threads_min",
-                    "value": "10"
-                }
-            },
-            "cpu": {
-                "max": {
-                    "timestamp": null,
-                    "name": "CPU_max",
-                    "value": "9.33"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "CPU_avg",
-                    "value": "4.52"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "CPU_min",
-                    "value": "2.03"
-                }
-            },
-            "memory": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Memory_max",
-                    "value": "5960"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Memory_avg",
-                    "value": "5446.46"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Memory_min",
-                    "value": "4411"
-                }
-            }
-        },
-        {
-            "device": {
-                "name": "Samsung Galaxy S II Epic 4G Touch",
-                "os_version": "4.0.4",
-                "id": 59
-            },
-            "memory": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Memory_max",
-                    "value": "3560"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Memory_avg",
-                    "value": "3560.0"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Memory_min",
-                    "value": "3560"
-                }
-            }
-        },
-        {
-            "device": {
-                "name": "Samsung Galaxy S III",
-                "os_version": "4.0.4",
-                "id": 60
-            },
-            "memory": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Memory_max",
-                    "value": "3597"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Memory_avg",
-                    "value": "3597.0"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Memory_min",
-                    "value": "3597"
-                }
-            }
-        },
-        {
-            "device": {
-                "name": "Samsung Nexus S 4G",
-                "os_version": "4.1.1",
-                "id": 65
-            },
-            "threads": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Threads_max",
-                    "value": "10"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Threads_avg",
-                    "value": "10.0"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Threads_min",
-                    "value": "10"
-                }
-            },
-            "cpu": {
-                "max": {
-                    "timestamp": null,
-                    "name": "CPU_max",
-                    "value": "8.63"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "CPU_avg",
-                    "value": "8.63"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "CPU_min",
-                    "value": "8.63"
-                }
-            },
-            "memory": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Memory_max",
-                    "value": "4848"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Memory_avg",
-                    "value": "4700.0"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Memory_min",
-                    "value": "4552"
-                }
-            }
-        },
-        {
-            "device": {
-                "name": "Sony Xperia Arc S",
-                "os_version": "4.0.4",
-                "id": 76
-            },
-            "threads": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Threads_max",
-                    "value": "12"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Threads_avg",
-                    "value": "11.96"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Threads_min",
-                    "value": "11"
-                }
-            },
-            "cpu": {
-                "max": {
-                    "timestamp": null,
-                    "name": "CPU_max",
-                    "value": "9.52"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "CPU_avg",
-                    "value": "4.43"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "CPU_min",
-                    "value": "2.81"
-                }
-            },
-            "memory": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Memory_max",
-                    "value": "6027"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Memory_avg",
-                    "value": "5739.62"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Memory_min",
-                    "value": "5108"
-                }
-            }
-        },
-        {
-            "device": {
-                "name": "Asus Nexus 7",
-                "os_version": "4.2",
-                "id": 77
-            },
-            "memory": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Memory_max",
-                    "value": "7842"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Memory_avg",
-                    "value": "7842.0"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Memory_min",
-                    "value": "7842"
-                }
-            }
-        },
-        {
-            "device": {
-                "name": "HTC Desire",
-                "os_version": "2.1-update1",
-                "id": 78
-            },
+            "id": 60,
             "threads": {
                 "max": {
                     "timestamp": null,
@@ -1670,357 +2339,52 @@
                     "value": "9"
                 }
             },
-            "cpu": {
-                "max": {
-                    "timestamp": null,
-                    "name": "CPU_max",
-                    "value": "5.97"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "CPU_avg",
-                    "value": "3.98"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "CPU_min",
-                    "value": "2.45"
-                }
-            },
             "memory": {
                 "max": {
                     "timestamp": null,
                     "name": "Memory_max",
-                    "value": "3440"
+                    "value": "4456"
                 },
                 "avg": {
                     "timestamp": null,
                     "name": "Memory_avg",
-                    "value": "3264.18"
+                    "value": "3864.5"
                 },
                 "min": {
                     "timestamp": null,
                     "name": "Memory_min",
-                    "value": "2768"
+                    "value": "2741"
                 }
-            }
-        },
-        {
+            },
             "device": {
-                "name": "HTC Desire HD",
-                "os_version": "2.3.3",
-                "id": 83
-            },
-            "threads": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Threads_max",
-                    "value": "10"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Threads_avg",
-                    "value": "10.0"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Threads_min",
-                    "value": "10"
-                }
+                "cpu_architecture_version": 7,
+                "name": "Samsung Galaxy S III",
+                "model_id": "GT-I9300",
+                "front_image": "samsung-galaxy-s-3.png",
+                "cpu_info": "1.4 GHz",
+                "os_version": "4.3",
+                "cpu_architecture_description": "ARMv7",
+                "resolution": "720 x 1280",
+                "id": 60
             },
             "cpu": {
                 "max": {
                     "timestamp": null,
                     "name": "CPU_max",
-                    "value": "5.05"
+                    "value": "3.76"
                 },
                 "avg": {
                     "timestamp": null,
                     "name": "CPU_avg",
-                    "value": "3.51"
+                    "value": "3.75"
                 },
                 "min": {
                     "timestamp": null,
                     "name": "CPU_min",
-                    "value": "2.76"
-                }
-            },
-            "memory": {
-                "max": {
-                    "timestamp": null,
-                    "name": "Memory_max",
-                    "value": "4341"
-                },
-                "avg": {
-                    "timestamp": null,
-                    "name": "Memory_avg",
-                    "value": "4010.82"
-                },
-                "min": {
-                    "timestamp": null,
-                    "name": "Memory_min",
-                    "value": "3539"
+                    "value": "3.73"
                 }
             }
         }
     ],
-    "warnings_by_device": [],
-    "failures_by_type": [
-        {
-            "results": [
-                {
-                    "description": "4.0.3",
-                    "message": "Launch",
-                    "id": 2019030,
-                    "name": "HTC One X"
-                },
-                {
-                    "description": "4.0.3",
-                    "message": "Launch",
-                    "id": 2019018,
-                    "name": "HTC One S"
-                },
-                {
-                    "description": "2.3.4",
-                    "message": "Launch",
-                    "id": 2019022,
-                    "name": "Samsung Galaxy Ace"
-                },
-                {
-                    "description": "2.3.3",
-                    "message": "Launch",
-                    "id": 2019058,
-                    "name": "HTC Desire HD"
-                },
-                {
-                    "description": "2.3.5",
-                    "message": "Launch",
-                    "id": 2018962,
-                    "name": "HTC Evo 4G"
-                },
-                {
-                    "description": "2.3.5",
-                    "message": "Launch",
-                    "id": 2018982,
-                    "name": "Samsung Galaxy S II Skyrocket"
-                },
-                {
-                    "description": "4.1.1",
-                    "message": "Launch",
-                    "id": 2019042,
-                    "name": "Samsung Nexus S 4G"
-                },
-                {
-                    "description": "4.0.3",
-                    "message": "Launch",
-                    "id": 2019006,
-                    "name": "Samsung Galaxy Tab 2 10.1"
-                },
-                {
-                    "description": "6.2.2_user_3205220",
-                    "message": "Launch",
-                    "id": 2018974,
-                    "name": "Amazon Kindle Fire"
-                },
-                {
-                    "description": "4.0.4",
-                    "message": "Launch",
-                    "id": 2019010,
-                    "name": "Motorola Droid RAZR"
-                },
-                {
-                    "description": "4.0.4",
-                    "message": "Launch",
-                    "id": 2019038,
-                    "name": "Samsung Galaxy S III"
-                },
-                {
-                    "description": "2.3.4",
-                    "message": "Launch",
-                    "id": 2019026,
-                    "name": "Samsung Galaxy Mini"
-                },
-                {
-                    "description": "4.0.4",
-                    "message": "Launch",
-                    "id": 2019034,
-                    "name": "Samsung Galaxy S II Epic 4G Touch"
-                },
-                {
-                    "description": "4.1.1",
-                    "message": "Launch",
-                    "id": 2018998,
-                    "name": "Samsung Galaxy Note II"
-                },
-                {
-                    "description": "2.3.3",
-                    "message": "Launch",
-                    "id": 2018994,
-                    "name": "Samsung Galaxy S Plus"
-                },
-                {
-                    "description": "4.1.1",
-                    "message": "Launch",
-                    "id": 2018970,
-                    "name": "Samsung Galaxy Nexus"
-                }
-            ],
-            "id": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero",
-            "name": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.ArithmeticException: divide by zero"
-        },
-        {
-            "results": [
-                {
-                    "description": "4.0.4",
-                    "message": "Exerciser Monkey",
-                    "id": 2019047,
-                    "name": "Sony Xperia Arc S"
-                },
-                {
-                    "description": "2.3.4",
-                    "message": "Exerciser Monkey",
-                    "id": 2019027,
-                    "name": "Samsung Galaxy Mini"
-                },
-                {
-                    "description": "2.3.4",
-                    "message": "Exerciser Monkey",
-                    "id": 2019023,
-                    "name": "Samsung Galaxy Ace"
-                },
-                {
-                    "description": "2.3.5",
-                    "message": "Exerciser Monkey",
-                    "id": 2018963,
-                    "name": "HTC Evo 4G"
-                },
-                {
-                    "description": "2.3.5",
-                    "message": "Exerciser Monkey",
-                    "id": 2018979,
-                    "name": "Samsung Galaxy Y"
-                },
-                {
-                    "description": "3.2",
-                    "message": "Exerciser Monkey",
-                    "id": 2018967,
-                    "name": "Samsung Galaxy Tab 10.1"
-                },
-                {
-                    "description": "2.3.3",
-                    "message": "Exerciser Monkey",
-                    "id": 2018995,
-                    "name": "Samsung Galaxy S Plus"
-                }
-            ],
-            "id": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-            "name": "java.lang.NullPointerException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException"
-        },
-        {
-            "results": [
-                {
-                    "description": "4.0.3",
-                    "message": "Launch",
-                    "id": 2019002,
-                    "name": "Samsung Galaxy Tab 2 7.0"
-                },
-                {
-                    "description": "2.3.4",
-                    "message": "Launch",
-                    "id": 2018986,
-                    "name": "Motorola Droid X"
-                },
-                {
-                    "description": "2.1.1",
-                    "message": "Exerciser Monkey",
-                    "id": 2019055,
-                    "name": "HTC Desire"
-                },
-                {
-                    "description": "3.2",
-                    "message": "Launch",
-                    "id": 2018966,
-                    "name": "Samsung Galaxy Tab 10.1"
-                },
-                {
-                    "description": "2.3.6",
-                    "message": "Launch",
-                    "id": 2018990,
-                    "name": "Samsung Galaxy Note"
-                },
-                {
-                    "description": "2.3.5",
-                    "message": "Launch",
-                    "id": 2018978,
-                    "name": "Samsung Galaxy Y"
-                },
-                {
-                    "description": "4.2",
-                    "message": "Launch",
-                    "id": 2019050,
-                    "name": "Asus Nexus 7"
-                }
-            ],
-            "id": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException",
-            "name": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.trellis.HelloTrellis/com.trellis.HelloTrellis.HelloTrellisActivity}: java.lang.NullPointerException"
-        },
-        {
-            "results": [
-                {
-                    "description": "2.3.4",
-                    "message": "Exerciser Monkey",
-                    "id": 2019015,
-                    "name": "Samsung Vitality"
-                },
-                {
-                    "description": "2.3.3",
-                    "message": "Exerciser Monkey",
-                    "id": 2019059,
-                    "name": "HTC Desire HD"
-                },
-                {
-                    "description": "4.0.4",
-                    "message": "Exerciser Monkey",
-                    "id": 2019011,
-                    "name": "Motorola Droid RAZR"
-                },
-                {
-                    "description": "2.3.5",
-                    "message": "Exerciser Monkey",
-                    "id": 2018983,
-                    "name": "Samsung Galaxy S II Skyrocket"
-                },
-                {
-                    "description": "6.2.2_user_3205220",
-                    "message": "Exerciser Monkey",
-                    "id": 2018975,
-                    "name": "Amazon Kindle Fire"
-                },
-                {
-                    "description": "4.1.1",
-                    "message": "Exerciser Monkey",
-                    "id": 2018971,
-                    "name": "Samsung Galaxy Nexus"
-                }
-            ],
-            "id": "java.lang.ArithmeticException: divide by zero",
-            "name": "java.lang.ArithmeticException: divide by zero"
-        }
-    ],
-    "summary": {
-        "status": "completed",
-        "report_file": "results_for_15656.zip",
-        "failure_count": 36,
-        "completed": 100,
-        "error_count": 0,
-        "pass_count": 64,
-        "id": 15656,
-        "count": 100,
-        "startdate": "May 28, 2013",
-        "initiator": "Thwack",
-        "name": "HelloTrellis.apk",
-        "warning_count": 0,
-        "starttime": "10:42 PM",
-        "result": "fail"
-    }
+    "warnings_by_device": []
 }
